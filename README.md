@@ -4,6 +4,8 @@
 - **Front-end**: React + Vite
 - **UI library**: [chakra-ui](https://chakra-ui.com/) [@chakra_ui](https://twitter.com/chakra_ui)
 - **Hosting**: [Netlify](https://www.netlify.com/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b6e306f9-6e00-47ed-9a4b-af97124d8fcd/deploy-status)](https://app.netlify.com/sites/distrion-chat/deploys)
+
 - Country flags from [Flagpedia](https://flagpedia.net)
 
 ## Install
